@@ -4,12 +4,12 @@ import { ShoppingCart, X, Menu } from 'lucide-react';
 // =========================================================
 // 1. CORRECT IMAGE IMPORTS FROM SRC FOLDER
 // =========================================================
-import RedBenchImage from './Assets/2.jpg';
-import EggBalloon1Image from './Assets/5.jpg';
-import EggBalloon2Image from './Assets/6.jpg';
-import ManImage from './Assets/7.png';
-import ArchitectureImage from './Assets/3.jpg'; // Assuming 3.jpg is used for both architecture entries
-import SamuraiKingImage from './Assets/samuraiking.jpg'; 
+import RedBenchImage from './assets/2.jpg';
+import EggBalloon1Image from './assets/5.jpg';
+import EggBalloon2Image from './assets/6.jpg';
+import ManImage from './assets/7.png';
+import ArchitectureImage from './assets/3.jpg';
+import SamuraiKingImage from './assets/samuraiking.jpg'; 
 
 // Sample product data - using imported image variables
 const products = [
